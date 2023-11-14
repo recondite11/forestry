@@ -1,0 +1,21 @@
+@media screen and (max-width: 600px) {
+    #home-content h1{
+        font-size: 2.5em;
+      }
+    #home-content p{
+        font-size: .8em;
+      }
+}
+@media screen and (max-width: 380px) {
+    #home-content div{
+        margin-top: 5em;
+    }
+}
+
+/* black bg for navbar-toggler */
+#navbar{
+    transition: background-color .5s ease;
+}
+.bg-black{
+    background-color: rgb(36, 36, 36);
+}
