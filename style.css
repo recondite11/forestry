@@ -23,7 +23,7 @@
 /* home section starts */
 #home{
   position: relative;
-  background: url('img/bg.jpg');
+  background: url('img/bg.webp');
   background-size: cover;
   height: 100vh;
 }
