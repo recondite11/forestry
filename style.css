@@ -92,3 +92,26 @@
  #goals h1{
   font-size: 4em;
  }
+
+ /* impacts */
+ #impacts .card img{
+  height: 400px;
+ }
+ #impacts .card{
+  background-color: transparent !important;
+  border: none;
+  color: white;
+ }
+ #impacts .card .card-title{
+  color: #86BC41;
+ }
+ #impacts .card a:hover{
+  color: #006838;
+ }
+ /* blogs  */
+ #blogs img{
+  height: 300px;
+ }
+ #blogs .card h6{
+  color: #86BC41;
+ }
